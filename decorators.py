@@ -2,6 +2,9 @@
 """
 
 A decorator is a function that modifies other functions.
+it takes a function as an argument and defines and
+ returns a new function that uses the one it was passed
+
 
 """
 
